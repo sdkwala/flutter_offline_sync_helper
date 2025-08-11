@@ -1,8 +1,10 @@
 name: offline_sync_helper
 description: A fully customizable offline-first sync engine for Flutter apps with support for Hive, Drift, and custom storage adapters.
 version: 1.0.0
-homepage: https://github.com/sdkwala/flutter_offline_sync_helper#readme
-
+repository: https://github.com/sdkwala/flutter_offline_sync_helper
+homepage: https://github.com/sdkwala/flutter_offline_sync_helper
+documentation: https://github.com/sdkwala/flutter_offline_sync_helper#readme
+issue_tracker: https://github.com/sdkwala/flutter_offline_sync_helper/issues
 
 environment:
   sdk: ^3.7.2
