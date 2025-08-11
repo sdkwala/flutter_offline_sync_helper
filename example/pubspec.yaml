@@ -1,0 +1,31 @@
+name: example
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  offline_sync_helper:
+    path: ../
+  hive_flutter: ^1.1.0
+  http: ^1.2.1
+  cupertino_icons: ^1.0.8
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.10
+  json_serializable: ^6.8.0
+
+flutter:
+  generate: true
+  uses-material-design: true
