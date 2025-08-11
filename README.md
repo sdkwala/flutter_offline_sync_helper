@@ -1,5 +1,16 @@
 # 📡 offline_sync_helper
 
+[![Pub Version](https://img.shields.io/pub/v/offline_sync_helper.svg?style=for-the-badge)](https://pub.dev/packages/offline_sync_helper)
+[![Pub Likes](https://img.shields.io/pub/likes/offline_sync_helper?style=for-the-badge)](https://pub.dev/packages/offline_sync_helper/score)
+[![Pub Points](https://img.shields.io/pub/points/offline_sync_helper?style=for-the-badge)](https://pub.dev/packages/offline_sync_helper/score)
+[![Pub Popularity](https://img.shields.io/pub/popularity/offline_sync_helper?style=for-the-badge)](https://pub.dev/packages/offline_sync_helper/score)
+[![GitHub Stars](https://img.shields.io/github/stars/sdkwala/flutter_offline_sync_helper?style=for-the-badge)](https://github.com/sdkwala/flutter_offline_sync_helper/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sdkwala/flutter_offline_sync_helper?style=for-the-badge)](https://github.com/sdkwala/flutter_offline_sync_helper/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/sdkwala/flutter_offline_sync_helper?style=for-the-badge)](https://github.com/sdkwala/flutter_offline_sync_helper/issues)
+[![License](https://img.shields.io/github/license/sdkwala/flutter_offline_sync_helper?style=for-the-badge)](https://github.com/sdkwala/flutter_offline_sync_helper/blob/main/LICENSE)
+![Platform](https://img.shields.io/badge/platform-Flutter-blue?logo=flutter&style=for-the-badge)
+![Null Safety](https://img.shields.io/badge/null%20safety-sound-success?style=for-the-badge)
+
 A fully customizable **offline-first sync engine** for Flutter apps.
 
 `offline_sync_helper` simplifies the process of working with local data, tracking changes, and syncing them with a remote backend. It offers built-in support for Hive, Drift, Firebase, and is extensible to any local storage system or API format.
